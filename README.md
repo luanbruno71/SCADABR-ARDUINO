@@ -3,3 +3,6 @@ Este repositório foi utilizado no meu TFC, nele estão disponíveis os códigos
 
 O texto elaborado no OverLeaf pode ser lido através do seguinte link:
 https://www.overleaf.com/read/pgshfnsxqdrh#670d9f
+
+Canal do Youtube:
+https://www.youtube.com/@luanbruno9236
