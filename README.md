@@ -7,5 +7,5 @@ A imagem utilizada como fundo também foi disponibilizada.
 O texto elaborado no OverLeaf pode ser lido através do seguinte link:
 https://www.overleaf.com/read/pgshfnsxqdrh#670d9f
 
-Canal do Youtube:
+O meu canal do Youtube possui um vídeo explicando o passo a passo desenvolvido:
 https://www.youtube.com/@luanbruno9236
